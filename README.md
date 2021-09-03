@@ -13,7 +13,7 @@ Code maintenable.
 
 ### Ce que j'ai pas fait
 
-== J'ai pas defini la route ( router.get()) car il y avait une seule route, donc je l'ai defini avec (app.get())
+== J'ai pas defini la route ( router.get()) car il y a une seule route, donc je l'ai defini avec (app.get())
 mais j'ai crée toute la structure sur le fichier presentation/repositoryRouter dans le cas de besoin.
 
 ####### PEUT ETRE J' AI MANQUÉ QUELQUE CHOSE, MAIS J'AI ESSAYÉ DE PENSER DANS TOUT LE CAS POSSIBLE...
